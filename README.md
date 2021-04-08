@@ -3,7 +3,7 @@
   <code>
     <a href="https://www.linkedin.com/in/venkatesh-kamath-84617a181/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href=""><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/twitter.svg">Twitter </a></code>
-  <code><a href="https://www.instagram.com/d.a.v.e.n.k.y/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/d.a.v.e.n.k.y/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20without%20padding/twitter.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
