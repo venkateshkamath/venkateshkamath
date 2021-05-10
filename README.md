@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development using MERN stack.
+- 🔭 &nbsp; I’m currently learning Software Development using MERN stack.
 - 🤖 &nbsp; Working on my DSA skills in JAVA langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
