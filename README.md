@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently learning Software Development using MERN stack.
 - 🤖 &nbsp; Working on my DSA skills in JAVA langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; Pursuing B.E degree in Computer Science.
+- 🎓 &nbsp; B.E degree in Computer Science.
 - 🏢 &nbsp; ZTM Academy.
 
 <h3>🛠 Tech Stack</h3>
