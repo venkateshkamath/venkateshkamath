@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Software Development using MERN stack.
-- 🤖 &nbsp; Working on my DSA skills in JavaScript langauage.
+- 🔭 &nbsp; I’m currently learning Software Development using the MERN stack.
+- 🤖 &nbsp; Working on my DSA skills in JavaScript language.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; B.E degree in Computer Science.
+- 🎓 &nbsp; B.E. degree in Computer Science.
 - 🏢 &nbsp; ZTM Academy.
 
 <h3>🛠 Tech Stack</h3>
